@@ -15,5 +15,9 @@
 			"Name": "OneSkyLocalizationService",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"IOS"
 	]
 }
