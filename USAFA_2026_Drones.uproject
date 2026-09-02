@@ -14,6 +14,14 @@
 		{
 			"Name": "OneSkyLocalizationService",
 			"Enabled": true
+		},
+		{
+			"Name": "ElectraPlayer",
+			"Enabled": true
+		},
+		{
+			"Name": "WaveformEditor",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
